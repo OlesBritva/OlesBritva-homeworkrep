@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!Hopefully this isn't the only program I will makle :D");
+﻿Console.WriteLine("Hopefully this isn't the only program I will make :D");
